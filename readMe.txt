@@ -1,0 +1,6 @@
+1) All code has been written in Java and is placed in the "program" folder. The report and other documentation is present in "result" folder.
+2) To run first part (Independent Bayesian Networks), go into programs folder and type "javac independentBN.java" and then "java independentBN"
+3) To run second part (Tree Bayesian Networks), go into programs folder and type "javac maxSt_dfs.java", then "javac chowliu.java" and then "java chowliu"
+4) To run third part (Mixtures of Tree Bayesian networks using EM), go into programs folder and type "javac EM.java" and then "java EM". Enter value of k (=5 , because I found this value of k by experimenting on the validation data)
+5) To run fourth part (Mixtures of Tree Bayesian networks using Bagging), go into programs folder and type "javac bagging_treeBN.java" and then "java bagging_treeBN". Enter value of k (=20 , because I found this value of k by experimenting on the validation data)
+6) the mean and standard deviation calculations as well as the readings for the 10 iterations have been recorded in the excel sheet named "mean_sd"
